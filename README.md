@@ -87,7 +87,7 @@ Audio(vis_audio_path)
 ```
 
 
-![png](output_3_0.png)
+![png](images/output_3_0.png)
 
 
 
@@ -134,7 +134,7 @@ display(Markdown('**Shape of Spectrogram** : ' + str(vis_spectrogram_feature.sha
 ```
 
 
-![png](output_5_0.png)
+![png](images/output_5_0.png)
 
 
 
@@ -158,7 +158,7 @@ display(Markdown('**Shape of MFCC** : ' + str(vis_mfcc_feature.shape)))
 ```
 
 
-![png](output_7_0.png)
+![png](images/output_7_0.png)
 
 
 
@@ -944,7 +944,7 @@ plt.show()
 ```
 
 
-![png](output_37_0.png)
+![png](images/output_37_0.png)
 
 
 __Question 1:__ Use the plot above to analyze the performance of each of the attempted architectures.  Which performs best?  Provide an explanation regarding why you think some models perform better than others. 
